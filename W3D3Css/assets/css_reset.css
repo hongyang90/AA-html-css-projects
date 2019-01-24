@@ -1,0 +1,28 @@
+* {
+    margin: ;
+    padding: ;
+    border: ;
+    font: inherit;
+    font-family: sans-serif;
+    color: inherit;
+    text-align: inherit;
+    list-style: inherit
+}
+
+body {
+ line-height: 1.5;   
+}
+
+ul, ol {
+      margin: ;
+    padding: ;
+    border: ;
+    font: inherit;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
