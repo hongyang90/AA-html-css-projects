@@ -1,0 +1,24 @@
+/* PHASE 3: Layout */
+.content {
+    position: relative;
+    display: flex;
+    background: white;
+    justify-content: center;
+    align-content: center;
+    width: 900px;
+    border: 1px solid gray;
+}
+
+.content-sidebar {
+    float: left;
+    width: 33%;
+    border: inherit;
+    min-height: 200px;
+    padding: 20px;
+}
+
+.content-main {
+    width: 66%;
+    border: inherit;
+    padding: 20px;
+}
