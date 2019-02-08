@@ -1,0 +1,22 @@
+/* PHASE 4: Footer */
+.footer {
+    display: flex;
+   background: white;
+    justify-content: space-around;
+    min-height: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.footer-left {
+    display: flex;
+    width: 25%;
+    float: left;
+}
+
+.footer-right{
+    display: flex;
+    width: 75%;
+    justify-content: space-between;
+    float: right;
+}
