@@ -1,0 +1,30 @@
+/* PHASE 5: Cats */
+.content-header {
+    height: 200px;
+    width: 900px;
+    background-image: url(/Users/KanyeMain/Downloads/css-friends-5/images/cats.jpg);
+    position: relative;
+    background-size: cover;
+}
+
+.content-header > h2 {
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    left: 240px;
+    font-size: 25px;
+    line-height: 1px;
+     text-shadow: 50%;
+}
+
+.content-header > button {
+    color: black;
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+    font-size: 25px;
+    background: white;
+   
+    
+    
+}
